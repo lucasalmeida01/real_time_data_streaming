@@ -25,6 +25,6 @@ Este projeto é uma implementação de um pipeline de dados em tempo real usando
 
 Estou planejando expandir este projeto com as melhorias:
 
-- **Integração com Outras APIs**: Explorar a ingestão de dados de várias fontes diferentees.
+- **Integração com Outras APIs**: Explorar a ingestão de dados de várias fontes diferentes.
 - **Criação de um Data Warehouse**: Implementar uma solução de data warehouse para análise de dados.
 - **Dashboards e Visualizações**: Integrar ferramentas de visualização de dados para criar dashboards.
